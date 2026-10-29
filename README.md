@@ -75,8 +75,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Bekhit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Bekhit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Bekhit&theme=tokyonight" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoud-Bekhit&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Bekhit&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmoud-Bekhit&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
